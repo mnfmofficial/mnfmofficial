@@ -17,44 +17,41 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🖥️ About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class FirazMN:
-    def __init__(self):
-        self.name            = "Firaz M MN"
-        self.location        = "Colombo, Sri Lanka 🇱🇰"
-        self.degree          = "BSc (Hons) IT — Cyber Security @ SLIIT"
-        self.role            = "Cyber Security Intern (Seeking)"
-        self.languages       = ["Tamil 🌟", "English 💼", "Sinhala"]
+```bash
+┌──(firaz㉿kali-lk)-[~]
+└─$ whoami --verbose
 
-        self.stack = {
-            "languages":   ["Python", "Java", "C", "C++", "PHP", "SQL"],
-            "sec_tools":   ["Burp Suite", "Metasploit", "Nmap",
-                            "Wireshark", "Nessus", "Ghidra",
-                            "OWASP ZAP", "Splunk", "Amass"],
-            "frameworks":  ["NIST CSF", "OWASP Top 10",
-                            "OCTAVE Allegro", "ISO 27001"],
-            "os":          ["Kali Linux", "Ubuntu", "Windows", "Android"],
-        }
+  Name         : Firaz M MN
+  Location     : Colombo, Sri Lanka 🇱🇰
+  Role         : Cyber Security Intern [SEEKING]
+  Degree       : BSc (Hons) IT — Cyber Security @ SLIIT
 
-        self.currently_learning = [
-            "OSCP Preparation",
-            "Advanced Malware Analysis",
-            "Cloud Security (AWS / Azure)",
-            "CTF Competitions",
-        ]
+┌──(firaz㉿kali-lk)-[~]
+└─$ cat /etc/target-profile
 
-        self.fun_fact = "I once reverse-engineered an Android app just to see if I could 👀"
+  [+] Focus Areas
+      ├── Penetration Testing
+      ├── Malware Analysis & Reverse Engineering
+      ├── Network Security & Threat Detection
+      └── GRC — NIST CSF / ISO 27001 / OCTAVE
 
-    def motto(self) -> str:
-        return "Offense informs defense. Learn both."
+  [+] Arsenal
+      ├── Languages  : Python  Java  C/C++  PHP  SQL  Bash
+      ├── Offense    : Metasploit  Burp Suite  Nmap  Amass
+      ├── Defense    : Splunk  Nessus  Wireshark  OWASP ZAP
+      └── RE / DFIR  : Ghidra  GDB  Anyrun  VirusTotal
 
-me = FirazMN()
-print(me.motto())
-# → "Offense informs defense. Learn both."
+  [+] OS
+      ├── Primary    : Kali Linux  Ubuntu
+      └── Secondary  : Windows  Android
+
+┌──(firaz㉿kali-lk)-[~]
+└─$ echo $MOTTO
+  "Offense informs defense. Learn both."
 ```
 
 <br clear="right"/>
@@ -239,8 +236,6 @@ print(me.motto())
 | 📱 | **Diploma in Mobile Technician** | ISO Campus · Certified |
 | 👑 | **President — Majlis of SLIIT** | University Society Leadership · 2025/2026 |
 | 🌍 | **AIESECer** | Global Youth Exchange Organization · SLIIT Chapter |
-| 🗣️ | **Chairperson — English Literary Association** | ST/SMMMV National School · 2017 |
-| 📋 | **Board of Prefects** | ST/SMMMV National School · 2015–2016 |
 
 </div>
 
@@ -253,21 +248,8 @@ print(me.motto())
 | Degree | Institution | Year | Notes |
 |:-------|:-----------|:-----|:------|
 | BSc (Hons) IT — Cyber Security | Sri Lanka Institute of Information Technology (SLIIT) | 2022 – Present | Final Year · 4-Year Program |
-| GCE Advanced Level — Physical Science | ST/SMMMV National School | 2020 | Chemistry C · Physics C · Maths C · English B |
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-```
-🔴 OSCP Preparation        → Buffer Overflows, Active Directory Attacks, Post-Exploitation
-🔵 Cloud Security          → AWS Security Hub, Azure Defender, IAM Best Practices
-🟣 Advanced Malware        → Dynamic Analysis, Sandbox Evasion, Yara Rules
-🟢 CTF & Red Teaming       → HackTheBox, TryHackMe, PicoCTF
-🟡 Threat Intelligence     → MITRE ATT&CK, STIX/TAXII, IOC Pivoting
-```
 
 ---
 
