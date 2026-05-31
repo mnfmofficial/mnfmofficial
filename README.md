@@ -161,7 +161,7 @@
 </details>
 
 <details>
-<summary><b>🛡️ Spoof Detector — ARP Spoofing Detection & Prevention</b> — Academic Project · SLIIT · 2023</summary>
+<summary><b>🛡️ Spoof Detector — ARP Spoofing Detection & Prevention</b> — Academic Project · SLIIT · 2025</summary>
 
 > `Python` `Scapy` `NetfilterQueue` `SQLite` `Flask` `Linux` `Network Security`
 
@@ -173,7 +173,7 @@
 </details>
 
 <details>
-<summary><b>🔐 AES & RSA Cryptography Implementation in C</b> — Academic Project · SLIIT · 2023</summary>
+<summary><b>🔐 AES & RSA Cryptography Implementation in C</b> — Academic Project · SLIIT · 2024</summary>
 
 > `C` `AES` `RSA` `Cryptography` `Encryption` `Key Management`
 
@@ -185,7 +185,7 @@
 </details>
 
 <details>
-<summary><b>📋 NIST CSF Toolkit Development</b> — Academic Project · SLIIT · 2023</summary>
+<summary><b>📋 NIST CSF Toolkit Development</b> — Academic Project · SLIIT · 2025</summary>
 
 > `NIST CSF` `GRC` `Policy Writing` `Risk Management` `Documentation`
 
@@ -196,7 +196,7 @@
 </details>
 
 <details>
-<summary><b>📱 Android Application Reverse Engineering</b> — Academic Project · SLIIT · 2023</summary>
+<summary><b>📱 Android Application Reverse Engineering</b> — Academic Project · SLIIT · 2025</summary>
 
 > `Android` `APK Analysis` `Ghidra` `Reverse Engineering` `Mobile Security` `Java`
 
