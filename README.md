@@ -149,12 +149,12 @@
 ## 💼 Academic & Project Experience
 
 <details>
-<summary><b>🔬 SIEM Platform for IoMT Devices</b> — Research Project · SLIIT · 2024</summary>
+<summary><b>🔬 SIEM Platform for IoMT Devices</b> — Research Project · SLIIT · 2025 - 2026</summary>
 
 > `Python` `SIEM` `IoMT` `Network Security` `Log Analysis` `Threat Detection`
 
 - Developed a Security Information and Event Management (SIEM) platform tailored for Internet of Medical Things (IoMT) devices
-- Addressed unique IoMT attack surfaces including device fingerprinting, anomaly detection, and real-time alerting
+- Addressed unique IoMT protocols (MQTT) including device fingerprinting, anomaly detection, and real-time alerting
 - Integrated log aggregation and correlation rules to detect unauthorized access patterns across connected medical devices
 - Demonstrated system capability in a controlled lab environment with simulated attack scenarios
 
