@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=mnfmofficial&style=flat-square&color=70a5fd&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/mnfmofficial?style=flat-square&color=bf91f3&labelColor=0d1117&label=Followers" />
   <a href="mailto:mnfmofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-mnfmofficial%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mnfmofficial"><img src="https://img.shields.io/badge/LinkedIn-Firaz%20M%20MN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/firaz-m-mn"><img src="https://img.shields.io/badge/LinkedIn-Firaz%20M%20MN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -208,33 +208,19 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [🛡️ Spoof Detector](https://github.com/mnfmofficial) | Python · Scapy · SQLite · Flask · Linux | Real-time ARP spoofing detection; MAC/IP whitelist enforcement; Flask monitoring dashboard |
-| [📡 IoMT SIEM Platform](https://github.com/mnfmofficial) | Python · SIEM · Network Security | Threat detection for medical IoT devices; log correlation; real-time alerting |
-| [🔐 Crypto in C](https://github.com/mnfmofficial) | C · AES · RSA | Full AES + RSA implementations from scratch; validated against known test vectors; secure key management |
-
-</div>
-
----
-
 ## 🏅 Achievements & Certifications
 
 <div align="center">
 
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🎓 | **BSc (Hons) IT — Cyber Security** | SLIIT · Final Year · 2022–Present |
-| 🛡️ | **Cybersecurity Entry Level** | Kaspersky · 2024 |
-| 🔴 | **CCEP Certification** | RedTeamLeaders · Ethical Hacking |
-| 🌐 | **Responsive Web Design** | freeCodeCamp · Certified |
-| 🤖 | **Generative AI Fundamentals** | Databricks · Certified |
-| 📱 | **Diploma in Mobile Technician** | ISO Campus · Certified |
-| 👑 | **President — Majlis of SLIIT** | University Society Leadership · 2025/2026 |
+| 🎓 | **BSc (Hons) IT — Cyber Security** | SLIIT · 2022–Present |
+| 🛡️ | **Cybersecurity Entry Level** | Kaspersky |
+| 🔴 | **CCEP Certification** | RedTeamLeaders |
+| 🌐 | **Responsive Web Design** | freeCodeCamp |
+| 🤖 | **Generative AI Fundamentals** | Databricks |
+| 📱 | **Diploma in Mobile Technician** | ISO Campus |
+| 👑 | **President — Majlis of SLIIT** | SLIIT · 2025/2026 |
 | 🌍 | **AIESECer** | Global Youth Exchange Organization · SLIIT Chapter |
 
 </div>
