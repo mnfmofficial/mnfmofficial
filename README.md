@@ -27,7 +27,7 @@
 
   Name         : Firaz M MN
   Location     : Colombo, Sri Lanka 🇱🇰
-  Role         : Cyber Security Intern [SEEKING]
+  Role         : IT Security Analyst Intern
   Degree       : BSc (Hons) IT — Cyber Security @ SLIIT
 
 ┌──(firaz㉿kali-lk)-[~]
