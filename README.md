@@ -62,47 +62,45 @@
 
 **Languages & Scripting**
 
-![Python](https://www.python.org/static/img/python-logo.png)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+<a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
 
 **Cyber Security Tools**
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00BFFF?style=flat-square&logo=tenable&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white"/></a>
+<a href="https://www.metasploit.com"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/></a>
+<a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></a>
+<a href="https://nmap.org"><img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white"/></a>
+<a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white"/></a>
+<a href="https://any.run"><img src="https://img.shields.io/badge/AnyRun-F4742B?style=flat-square&logo=firefoxbrowser&logoColor=white"/></a>
+<a href="https://www.gnu.org/software/gdb"><img src="https://img.shields.io/badge/GDB-A81D33?style=flat-square&logo=gnu&logoColor=white"/></a>
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href="https://www.oracle.com/database"><img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+
 
 **Frameworks & Standards**
 
-![NIST](https://img.shields.io/badge/NIST%20CSF-003087?style=flat-square&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
-![ISO27001](https://img.shields.io/badge/ISO%2027001-0052CC?style=flat-square&logoColor=white)
-![OCTAVE](https://img.shields.io/badge/OCTAVE%20Allegro-6A0DAD?style=flat-square&logoColor=white)
+<a href="https://www.nist.gov/cyberframework"><img src="https://img.shields.io/badge/NIST%20CSF-003087?style=flat-square&logoColor=white"/></a>
+<a href="https://owasp.org/www-project-top-ten"><img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white"/></a>
+<a href="https://www.iso.org/isoiec-27001-information-security.html"><img src="https://img.shields.io/badge/ISO%2027001-0052CC?style=flat-square&logoColor=white"/></a>
+<a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508084"><img src="https://img.shields.io/badge/OCTAVE%20Allegro-6A0DAD?style=flat-square&logoColor=white"/></a>
 
 **Other Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
+<a href="https://www.canva.com"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/></a>
 ---
 
 ## 📊 GitHub Stats
