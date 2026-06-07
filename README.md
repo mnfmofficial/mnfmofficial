@@ -34,7 +34,7 @@
 └─$ cat /etc/target-profile
 
   [+] Focus Areas
-      ├── Penetration Testing
+      ├── Defender (Blue Team)
       ├── Malware Analysis & Reverse Engineering
       ├── Network Security & Threat Detection
       └── GRC — NIST CSF / ISO 27001 / OCTAVE
@@ -46,8 +46,8 @@
       └── RE / DFIR  : Ghidra  GDB  Anyrun  VirusTotal
 
   [+] OS
-      ├── Primary    : Kali Linux  Ubuntu
-      └── Secondary  : Windows  Android
+      ├── Primary    : Kali Linux  Windows
+      └── Secondary  : Windows  Android  Linux
 
 ┌──(firaz㉿kali-lk)-[~]
 └─$ echo $MOTTO
@@ -62,7 +62,7 @@
 
 **Languages & Scripting**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://www.python.org/static/img/python-logo.png)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -80,10 +80,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00BFFF?style=flat-square&logo=tenable&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logo=nsa&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
 
 **Databases**
 
@@ -105,7 +102,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -220,8 +216,6 @@
 | 🌐 | **Responsive Web Design** | freeCodeCamp |
 | 🤖 | **Generative AI Fundamentals** | Databricks |
 | 📱 | **Diploma in Mobile Technician** | ISO Campus |
-| 👑 | **President — Majlis of SLIIT** | SLIIT · 2025/2026 |
-| 🌍 | **AIESECer** | Global Youth Exchange Organization · SLIIT Chapter |
 
 </div>
 
@@ -233,7 +227,7 @@
 
 | Degree | Institution | Year | Notes |
 |:-------|:-----------|:-----|:------|
-| BSc (Hons) IT — Cyber Security | Sri Lanka Institute of Information Technology (SLIIT) | 2022 – Present | Final Year · 4-Year Program |
+| BSc (Hons) IT — Cyber Security | Sri Lanka Institute of Information Technology (SLIIT) | 2022 – 2026 |
 
 </div>
 
