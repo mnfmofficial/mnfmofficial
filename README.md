@@ -223,9 +223,9 @@
 
 <div align="center">
 
-| Degree | Institution | Year | Notes |
-|:-------|:-----------|:-----|:------|
-| BSc (Hons) IT — Cyber Security | Sri Lanka Institute of Information Technology (SLIIT) | 2022 – 2026 |
+| Degree | Institution | 
+|:-------|:-----------|
+| BSc (Hons) IT — Cyber Security | Sri Lanka Institute of Information Technology (SLIIT) |
 
 </div>
 
